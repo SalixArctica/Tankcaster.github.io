@@ -1,7 +1,8 @@
 body {
-	
-	background-color: #020202;
+	background-color: #020202 !important;
 }
+
+
 
 header .row, footer .row {
 	display: flex;
@@ -17,6 +18,10 @@ header nav {
 	display: flex;
 	justify-content: flex-end;
 	margin-top: 30px;
+}
+
+header nav a{
+	color: black;
 }
 
 header p, a {
