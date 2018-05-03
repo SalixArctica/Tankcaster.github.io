@@ -39,5 +39,4 @@ header p, a {
 footer img {
 	height: 50px;
 	width: 50px;
-	filter: invert();
 }
