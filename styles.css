@@ -2,8 +2,6 @@ body {
 	background-color: #020202 !important;
 }
 
-
-
 header .row, footer .row {
 	display: flex;
 	align-items: center;
