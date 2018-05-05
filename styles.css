@@ -38,7 +38,11 @@ header p, a {
 	margin-top: -50rem;
 }
 
-footer img {
-	height: 50px;
-	width: 50px;
+footer .col-sm-3{
+	height: 5rem;
+	width: 8rem;
+}
+
+footer clickedButton{
+	
 }

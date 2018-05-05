@@ -19,14 +19,14 @@ function shake(thing)
 	//grow
 	thing.animate(
 	{
-		height: "55px",
-		width: "55px"
+		height: "6rem",
+		width: "9rem"
 	}, 500);
 	//shrink
 	thing.animate(
 	{
-		height: "50px",
-		width: "50px"
+		height: "5rem",
+		width: "8rem"
 	}, 500);
 }
 
@@ -34,12 +34,12 @@ function buttonClick(button)
 {
 	button.animate(
 	{
-		height: "45px",
-		width: "45px"
+		height: "4rem",
+		width: "7rem"
 	}, 110);
 	button.animate(
 	{
-		height: "50px",
-		width: "50px"
+		height: "5rem",
+		width: "8rem"
 	}, 110);
 }
